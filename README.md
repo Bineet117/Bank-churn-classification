@@ -21,7 +21,7 @@ Access the deployed app here: [Bank Churn Prediction](https://bank-churn-classif
 ### Steps to Clone and Run
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Bineet117/Bank-churn-classification.git>
+   git clone https://github.com/Bineet117/Bank-churn-classification.git
    ```
 
 2. Navigate to the project directory:
