@@ -52,5 +52,5 @@ Access the deployed app here: [Bank Churn Prediction](https://bank-churn-classif
 - **TensorFlow** for the churn prediction model.
 - **Streamlit** for the web app interface.
 - **scikit-learn** for preprocessing and feature engineering.
-```
+
 
